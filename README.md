@@ -36,7 +36,9 @@ The car always tries to keep a wall on its right. Decision priority:
 
 ---
 
+<img src="Car.png" width="500">
 ![Car](Car.png)
+
 
 ## Logic Design
 
