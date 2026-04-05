@@ -36,7 +36,7 @@ The car always tries to keep a wall on its right. Decision priority:
 
 ---
 
-![Logic](Logic_Test.mp4)
+![Car](Car.png)
 
 ## Logic Design
 
@@ -64,7 +64,6 @@ The minimized expressions were implemented using standard logic gate ICs (AND, O
 
 ---
 
-![Competition](Competition.mp4)
 
 ## Team
 
